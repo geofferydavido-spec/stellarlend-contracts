@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-2060-add-failure-path-and-boundary-coverage-for-api",
+    "security/issue-2071-add-failure-path-and-boundary-coverage-for",
+    "security/issue-2097-add-failure-path-and-boundary-coverage-for"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-2060-add-failure-path-and-boundary-coverage-for-api": "main",
+    "security/issue-2071-add-failure-path-and-boundary-coverage-for": "main",
+    "security/issue-2097-add-failure-path-and-boundary-coverage-for": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-2060-add-failure-path-and-boundary-coverage-for-api",
+    "security/issue-2071-add-failure-path-and-boundary-coverage-for",
+    "security/issue-2097-add-failure-path-and-boundary-coverage-for"
+  ]
+}
